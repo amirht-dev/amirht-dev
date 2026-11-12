@@ -1,4 +1,4 @@
-# 💫 About Me:
+# Hi 👋, I'm Amirhossein Taheri
 Frontend Developer with 4+ years of experience building modern, scalable web applications using React, TypeScript, and Next.js (App Router). Experienced in frontend architecture design, client-side and server-state management with Zustand and TanStack Query, and developing reusable, scalable UI components and forms. Focused on performance optimization, user experience (UX), maintainable architecture, and clean code to deliver high-quality, reliable, and scalable web applications.
 
 
